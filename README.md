@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This Project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
 <h2> Key Environments and Technologies being Used</h2>
@@ -20,10 +20,12 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 
 - Intake
 - Assignment and Communication
-- Working the Issue
+- Working the Ticket
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+<h4>Intake:</h4>
 
 <p> 
 <img src="https://i.imgur.com/qUh8ijV.jpeg" height="50%" width="50%" alt="Intake step"/>
@@ -45,6 +47,8 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 </p>
 <br />
 
+<h4>Assignment and Communication:</h4>
+
 <p>
 <img src="https://i.imgur.com/Iqa7ZA9.png" height="40%" width="40%" alt="Assignment and Communication"/>
 </p>
@@ -58,6 +62,8 @@ This project outlines the lifecycle of a ticket from intake to resolution within
   </p>
 <br />
 
+<h4>Working the Ticket:</h4>
+
 <p>
 <img src="https://i.imgur.com/AuRB9nZ.jpeg" height="40%" width="40%" alt="Working Ticket"/>
 </p>
@@ -65,6 +71,8 @@ This project outlines the lifecycle of a ticket from intake to resolution within
 Next Step is working the ticket. This ticket was assigned to the online banking team. Agent Jane has officially took over thid ticket and is now working it, figuring out a solution. Agent Jane did indeed figure out a solution. Continuing to update the user, she replied to the ticket stating whas was going on and what needed to be done to fix the problem. 
 </p>
 <br />
+
+<h4>Resolution:</h4>
 
 <p>
 <img src="https://i.imgur.com/7W7tfqZ.png" height="40%" width="40%" alt="Resolution"/> 
