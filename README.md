@@ -31,19 +31,19 @@ This Project outlines the lifecycle of a ticket from intake to resolution within
 <img src="https://i.imgur.com/qUh8ijV.jpeg" height="50%" width="50%" alt="Intake step"/>
 </p>
 <p>
- First step in this process is the Intake. Intake is when a user submits a ticket to help desk for support or assistance. The user Karen will go to her company's support center to submit a ticket for the issue that is occurring. 
+ The first step in this process is the Intake. Intake is when a user submits a ticket to the help desk for support or assistance. The user Karen will go to her company's support center to submit a ticket for the issue that is occurring. 
 </p>
 <p>
   <img src="https://i.imgur.com/umrlS0Y.jpeg" height="40%" width="40%" alt="Intake step"/>
 </p>
 <p>
-  Now once Karen is logged into her account she will begin to fill out a form that will have a help topic, ticket details, and a issue summary. When that is completed she will just submit it and go from there. 
+  Now once Karen is logged into her account, she will begin to fill out a form that will have a help topic, ticket details, and an issue summary. When that is completed, she will just submit it and go from there. 
 </p>
 <p>
    <img src="https://i.imgur.com/fJaTuS3.jpeg" height="40%" width="40%" alt="Intake step"/>
 </p>
 <p>
-  In the picture above, karen submitted the ticket and now an agent will be able to communicate with her about the issue that is occurring. This is important to continue to give updates and keep the user in the loop about whats going and/if there are any solutions. 
+  In the picture above, Karen submitted the ticket, and now an agent will be able to communicate with her about the issue that is occurring. This is important to continue to give updates and keep the user in the loop about whats going on and/if there are any solutions. 
 </p>
 <br />
 
@@ -52,7 +52,7 @@ This Project outlines the lifecycle of a ticket from intake to resolution within
 <p>
 <img src="https://i.imgur.com/Iqa7ZA9.png" height="40%" width="40%" alt="Assignment and Communication"/>
 </p>
-  The second step is Assignment and Communication. As we can see above the problem that is occuring is a mobile/online banking issue. This will be assigned to a certain department and a SLA will be set as well as the severity/time for this ticket. 
+  The second step is Assignment and Communication. As we can see above, the problem is a mobile/online banking issue. This will be assigned to a certain department, and an SLA will be set as well as the severity/time for this ticket. 
 </p>
 <p>
   <img src="https://i.imgur.com/AuRB9nZ.jpeg" height="40%" width="40%" alt="Assignment and Communication"/>
@@ -68,7 +68,7 @@ This Project outlines the lifecycle of a ticket from intake to resolution within
 <img src="https://i.imgur.com/AuRB9nZ.jpeg" height="40%" width="40%" alt="Working Ticket"/>
 </p>
 <p>
-Next Step is working the ticket. This ticket was assigned to the online banking team. Agent Jane has officially took over thid ticket and is now working it, figuring out a solution. Agent Jane did indeed figure out a solution. Continuing to update the user, she replied to the ticket stating whas was going on and what needed to be done to fix the problem. 
+The Next Step is working on the ticket. This ticket was assigned to the online banking team. Agent Jane has officially taken over this ticket and is now working on it, figuring out a solution. Agent Jane did indeed figure out a solution. Continuing to update the user, she replied to the ticket stating what was going on and what needed to be done to fix the problem. 
 </p>
 <br />
 
@@ -78,7 +78,7 @@ Next Step is working the ticket. This ticket was assigned to the online banking 
 <img src="https://i.imgur.com/7W7tfqZ.png" height="40%" width="40%" alt="Resolution"/> 
 </p>
 <p>
-Finally, a resolution was found. Agent Jane responded to the ticket stating that the system is going to need several updates. She will be restarting the system and running the updates, shouldn't take to long and the system will be back up shortly. Once this is completed. Jane can now mark that ticket as resolved, when she goes back to the dashboard she shouldn't see that ticket anymore. If you do want to see that ticket you can go to your closed tickets and pull it up.  
+Finally, a resolution was found. Agent Jane responded to the ticket, stating that the system is going to need several updates. She will be restarting the system and running the updates, shouldn't take to long and the system will be back up shortly. Once this is completed. Jane can now mark that ticket as resolved. When she goes back to the dashboard, she shouldn't see that ticket anymore. If you do want to see that ticket you can go to your closed tickets and pull it up.  
 </p>
 <br />
 
